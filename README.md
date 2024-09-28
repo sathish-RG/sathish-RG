@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Sathish, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/10597/10597864.png" width="13"/> <b>Bengaluru, Karnataka</b>. </p>
+<p>Welcome to my page! </br> I'm Sathish, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/10597/10597864.png" width="13"/> <b>Thiruvarur, Tamilnadu</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="JavaScript" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" />
