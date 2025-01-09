@@ -16,3 +16,6 @@
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 </p>
+<h3>Where to find me</h3>
+<p><a href="https://github.com/sathish-RG" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sathish-rg?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJyA8aJvUTOaNjVB2quu%2BTA%3D%3D" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
